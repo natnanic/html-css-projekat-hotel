@@ -1,0 +1,3 @@
+User-agent:*
+Disallow: / img/
+sitemap: https://natnanic.github.io/html-css-projekat-hotel/sitemap.xml
